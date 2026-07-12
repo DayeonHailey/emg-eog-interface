@@ -9,7 +9,7 @@ env/
 build/
 dist/
 
-# ===== C / C++ (MSP430 firmware, CCS build artifacts) =====
+# ===== C (MSP430 firmware, CCS build artifacts) =====
 *.o
 *.obj
 *.d
