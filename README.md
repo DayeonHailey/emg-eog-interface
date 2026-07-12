@@ -13,6 +13,12 @@ detect tremor activity and enable eye-movement-based computer control.
 - **Output:** cursor control mapped to gaze direction, tremor-relief audio
   trigger, and caregiver alert on tremor onset
 
+## System Diagram
+![System architecture](docs/images/system_diagram.png)
+
+## Live Visualization
+![Python GUI](docs/images/python_gui_screenshot.png)
+
 ## Hardware
 
 - Custom BMDAQ PCB (hand-soldered) for EMG/EOG analog front-end
