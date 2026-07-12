@@ -1,6 +1,6 @@
 # EMG-EOG Interface: Tremor Detection & Assistive Control
 
-Dual-channel biosignal acquisition system combining EMG and EOG sensing to
+3-channel biosignal acquisition system (1× EMG, 2× EOG) combining EMG and EOG sensing to
 detect tremor activity and enable eye-movement-based computer control.
 
 ## System Overview
