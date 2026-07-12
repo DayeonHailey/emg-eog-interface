@@ -17,7 +17,7 @@ detect tremor activity and enable eye-movement-based computer control.
 ![System architecture](docs/images/system_diagram.png)
 
 ## Live Visualization
-![Python GUI](docs/images/python_gui_screenshot.png)
+![Python GUI](docs/images/python_gui_screenshot.jpg)
 
 ## Hardware
 
