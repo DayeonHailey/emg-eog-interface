@@ -1,0 +1,38 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+build/
+dist/
+
+# ===== C / C++ (MSP430 firmware, CCS build artifacts) =====
+*.o
+*.obj
+*.d
+*.map
+*.out
+*.hex
+*.a
+*.lib
+Debug/
+Release/
+*.pjt
+*.pjimetadata
+
+# ===== TI Code Composer Studio project settings =====
+.settings/
+*.launch
+.metadata/
+
+# ===== OS / editor =====
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
+
+# ===== Project data (don't commit personal recordings) =====
+label_history.csv
