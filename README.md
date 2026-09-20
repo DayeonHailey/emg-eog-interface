@@ -37,8 +37,3 @@ python python/eog_emg_visualizer.py
 ```
 
 Update `SERIAL_PORT` in `eog_emg_visualizer.py` to match your device.
-
-## Status
-
-Work in progress — developed as part of an undergraduate biomedical
-engineering research project.
